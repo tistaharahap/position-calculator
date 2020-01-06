@@ -1,0 +1,15 @@
+{
+  "name": "poscalc",
+  "version": "0.1.0",
+  "description": "Position Size Calculator for margin or regular trading",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve ."
+  },
+  "author": "Batista Harahap",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^11.3.0"
+  }
+}
